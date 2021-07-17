@@ -3,7 +3,7 @@ Discord SelfBot made in c#. Code could be better but most of it was written when
 ## Discord SelfBot
 Discord SelfBot made in c#. Code could be better but most of it was written when i was half asleep.
 ## Setup
-Create a txt file in the directory of the exe. Fill it in this format -
+Create a txt file in the directory of the exe called token.txt. Fill it in this format -
 
     Discord Token Here
     Colour here (red, blue, white or black for now)
