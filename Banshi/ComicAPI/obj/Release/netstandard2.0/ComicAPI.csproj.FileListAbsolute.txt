@@ -1,0 +1,10 @@
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\bin\Release\netstandard2.0\ComicAPI.deps.json
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\bin\Release\netstandard2.0\ComicAPI.dll
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\bin\Release\netstandard2.0\ComicAPI.pdb
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\obj\Release\netstandard2.0\ComicAPI.csprojAssemblyReference.cache
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\obj\Release\netstandard2.0\ComicAPI.AssemblyInfoInputs.cache
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\obj\Release\netstandard2.0\ComicAPI.AssemblyInfo.cs
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\obj\Release\netstandard2.0\ComicAPI.csproj.CoreCompileInputs.cache
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\obj\Release\netstandard2.0\ComicAPI.csproj.Fody.CopyLocal.cache
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\obj\Release\netstandard2.0\ComicAPI.dll
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\ComicAPI\obj\Release\netstandard2.0\ComicAPI.pdb

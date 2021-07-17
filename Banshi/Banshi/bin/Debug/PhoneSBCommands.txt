@@ -1,0 +1,38 @@
+> - prefix
+<> - necessary
+[] - optional
+
+>embed <title> [description] - sends an embed to the active channel
+>btc - gets how much bitcoin ou can get for $1
+>poll <choice 1> <choice 2> <question> - makes a poll for the people to answer on
+>nitro - generates a random nitro code
+>coinflip - self explanatory
+>info <user> - gets info on a user.
+>crash - sends a gif that crashes discord
+>ascii <message> - sends your message in ascii text
+>serial - gets your serial
+>ccgen - generates a credit card
+>suggestion <suggestion text> - creates a suggestion message
+>shrug - sends ¯_(ツ)_/¯
+>tableflip - sends (╯°□°）╯︵ ┻━┻
+>calculate <firstNo> <operator> <secondNo>
+>comic <comic number> - sends a comic photo
+>myembed - loads a json from the embed maker visualizer
+>minecraftplayer <name> - gets player id and skin image of a minecraft player
+>ipcheck <ip> - gets basic info on an ip address
+>define <word> - gets an oxford dictionary definition
+>urban <word> - gets an urban dictionary definition
+>cat - sends a random photo of a cat
+>dog - sends a random photo of a dog
+>pokemon <pokemon name> - sends a photo of the pokemon and a link to its pokedex entry
+>space - gets a photo of space
+>overlay <user> <overlay type> - sends a photo of the avatar with an overlay on it eg(gay,jail,glass,wasted,greyscale,invert,brightness,threshold,sepia,red,green,blue,blurple,blurple2, pixelate,blur, youtube-comment, tweet,simpcard,horny,lolice,its-so-stupid, colorviewer)
+>nsfw <type> - sends a nsfw gif eg(anal,blowjob,cum,fuck,neko,pussylick,solo,threesome_fff,threesome_ffm,threesome_mmf,yaoi,yuri) i apologise im pretty sure its all hentai
+>qrcode <search> - sends a photo of a qr code that searches the given search query
+>aninick <guild id> <nickname> - animates your nickname in a certain server
+>sniper - enables nitro sniper
+>bigfloppafriday - sends a video of big floppa friday.
+>ban <guild id> <user> - bans user from the guild id specified
+>kick <guild id> <user> - kicks user from the guild id specified
+
+Done for now. lmk if you have any suggestion and i will update it.

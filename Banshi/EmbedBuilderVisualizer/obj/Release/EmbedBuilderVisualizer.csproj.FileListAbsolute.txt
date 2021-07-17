@@ -1,0 +1,14 @@
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\bin\Release\EmbedBuilderVisualizer.exe.config
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\bin\Release\EmbedBuilderVisualizer.exe
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\bin\Release\EmbedBuilderVisualizer.pdb
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\bin\Release\Newtonsoft.Json.xml
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.csprojAssemblyReference.cache
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.Form1.resources
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.Properties.Resources.resources
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.csproj.GenerateResource.cache
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.csproj.CoreCompileInputs.cache
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.csproj.Fody.CopyLocal.cache
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.csproj.CopyComplete
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.exe
+E:\CodingStuff\_projects\Banshi-SelfBot\Banshi\EmbedBuilderVisualizer\obj\Release\EmbedBuilderVisualizer.pdb
