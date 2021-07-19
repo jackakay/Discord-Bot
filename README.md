@@ -20,8 +20,8 @@ This project comes with an embed visualiser, which allows you to create your own
 
 ## Things i plan to add
 - Authentication
--More Commands
--Better UI
+- More Commands
+- Better UI
 
 
 
