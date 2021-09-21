@@ -25,9 +25,8 @@ namespace Banshi.Commands
 {
     public class Commands
     {
-        public static string yourGaynessInString;
-        public static string theirGaynessInString;
-
+   
+	  
         public static int playerOption;
 
 
